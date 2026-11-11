@@ -1,9 +1,6 @@
 # 🚀 Proyecto Integrador: Detección Temprana del Riesgo de Deserción Universitaria
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Data-Pandas%20%2F%20NumPy-yellow.svg)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Completado-success.svg)]()
+DESPLIEGUE: https://aula-alerta-academica.streamlit.app/
 
 ---
 
